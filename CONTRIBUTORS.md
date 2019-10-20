@@ -334,3 +334,8 @@
 - Bio: Scienctist, developer
 - GitHub: [andreas-ra](https://github.com/andreas-ra)
 
+#### Name: [Chinmay](https://github.com/Chinmay-KB)
+- Place: Rourkela, Odisha
+- Bio: Student, developer
+- GitHub: [Chinmay-KB](https://github.com/Chinmay-KB)
+
